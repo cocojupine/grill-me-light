@@ -1,0 +1,7 @@
+interface:
+  display_name: "Grill Me Light"
+  short_description: "Clarify ideas through light, focused questioning"
+  default_prompt: "Use $grill-me-light to help me think through this idea."
+
+policy:
+  allow_implicit_invocation: false
