@@ -4,18 +4,26 @@ description: Lightly question an idea, plan, or decision to make the thinking cl
 ---
 
 Interview the user until you reach shared clarity. Map the thinking as a
-provisional design tree: each decision may uncover questions that depend on it.
-When the root is unclear, question or reframe it before expanding the tree.
+provisional design tree: every decision branches into the decisions that hang
+off it. Before each round, incorporate relevant information already provided in
+the conversation, materials, or environment. Treat answered nodes as settled;
+do not ask the user for them again. When the root is unclear, question or
+reframe it before expanding the tree.
 
-Work the tree in rounds. The frontier is the questions that can be answered
-without guessing. Ask the small, related part of that frontier most likely to
-change the direction; do not ask the whole frontier just to complete the tree.
-Each answer reshapes the tree; recompute the frontier. A branch may be decided,
-parked, pruned, or left open.
+Work the tree in rounds. The frontier is every unresolved decision whose
+prerequisites are settled: the questions you can ask now without guessing at
+answers you have not heard. Ask the small, related part of that frontier most
+likely to change the direction; do not ask the whole frontier just to complete
+the tree. Then wait for the user's answers before the next round. Each round,
+settled decisions push the frontier outward and unblock dependent questions;
+recompute the frontier. A question that depends on another open question belongs
+to a later round. A branch may be decided, parked, pruned, or left open.
 
-Find checkable facts yourself; the decisions are the user's. Challenge weak
-assumptions directly, without manufacturing opposition. Give each question
-your recommended answer; it may be tentative when appropriate.
+Finding facts is your job, never the user's. Investigate facts from the
+available environment; do not ask the user for anything you could find
+yourself. The decisions are the user's. Challenge weak assumptions directly,
+without manufacturing opposition. Give each question your recommended answer;
+it may be tentative when appropriate.
 
 Format a round like so:
 
