@@ -14,17 +14,21 @@ Each answer reshapes the tree; recompute the frontier. A branch may be decided,
 parked, pruned, or left open.
 
 Find checkable facts yourself; the decisions are the user's. Challenge weak
-assumptions directly, without manufacturing opposition; recommend only when a
-choice makes that useful.
+assumptions directly, without manufacturing opposition. Give each question
+your recommended answer; it may be tentative when appropriate.
 
-Format questions like this:
+Format a round like so:
 
-```
-❓ **Q1** - **<question title>**: <question body>
+```yaml
+❓ **Q1** - **<question title>**: <question body, might be multiple paragraphs, including multiple choices>
 
-➡️ <your recommendation, challenge, or tentative read>
+➡️ <your recommended answer>
 
 ---
+
+❓ **Q2** - **<question title>**: <question body, might be multiple paragraphs, including multiple choices>
+
+➡️ <your recommended answer>
 ```
 
 Finish when the user has enough clarity to choose a next move or pause
