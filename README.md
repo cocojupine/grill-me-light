@@ -20,4 +20,8 @@ This skill is inspired by Matt Pocock's
 [Grill Me](https://github.com/mattpocock/skills) skill (MIT). It is an
 independent light adaptation and is not affiliated with Matt Pocock.
 
-No license has been selected for this repository yet.
+Original upstream portions are copyright (c) 2026 Matt Pocock.
+
+## License
+
+MIT.
